@@ -1,10 +1,42 @@
-# Inter_Analista_Dados_Pyspark
+2. Tendência de compras ao longo do tempo:
++----+---+-------------+
+| ano|mes|total_compras|
++----+---+-------------+
+|2020|  7|        15440|
+|2020|  8|        50673|
+|2020|  9|        51461|
+|2020| 10|        95875|
+|2020| 11|        94227|
++----+---+-------------+
 
-1. Lojas que nossos clientes mais compram:
+--
 
-![image](https://github.com/user-attachments/assets/eee7635a-e5aa-41ad-82dd-14515e2c9dfa)
+3. Aumento nas vendas ao longo do tempo:
++----+---+-------------+
+| ano|mes|total_compras|
++----+---+-------------+
+|2020| 10|        95875|
+|2020| 11|        94227|
+|2020|  9|        51461|
+|2020|  8|        50673|
+|2020|  7|        15440|
++----+---+-------------+
 
-----
+--
+
+4. Valor médio de compras dos clientes:
++------------------+
+|valor_medio_compra|
++------------------+
+|1326784.6337689417|
++------------------+
+
+--
 
 
-![image](https://github.com/user-attachments/assets/96990bfd-133f-48ad-b722-b807f8f237d9)
+5. Percentual médio de cashback recebido pelos clientes:
++-------------------------+
+|media_percentual_cashback|
++-------------------------+
+|        20.23231476873425|
++-------------------------+
