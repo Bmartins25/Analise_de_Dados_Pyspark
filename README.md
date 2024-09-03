@@ -1,4 +1,4 @@
-Repositório com propósito do teste para vaga no Banco Inter
+Repositório com propósito do teste para vaga no Banco Inter: Analista de dados
 
 Etapas inciais:
 
