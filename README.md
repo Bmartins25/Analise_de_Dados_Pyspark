@@ -1,3 +1,8 @@
+1. Lojas que nossos clientes mais compram:
+
+![image](https://github.com/user-attachments/assets/9d7bd868-02fd-4daf-a1d7-d3a423abec7c)
+
+
 2. Tendência de compras ao longo do tempo:
 
 ![image](https://github.com/user-attachments/assets/dde3ea81-904f-4108-89cb-77becc8d099f)
