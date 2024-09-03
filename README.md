@@ -36,3 +36,8 @@ Etapas inciais:
 
 ![image](https://github.com/user-attachments/assets/433e4560-744e-4f22-988b-137415454ef5)
 
+
+--
+
+![image](https://github.com/user-attachments/assets/bb2c7f8e-e0ea-4592-8baf-97fa55ed578f)
+
