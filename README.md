@@ -1,3 +1,14 @@
+Repositório com propósito do teste para vaga no Banco Inter
+
+Etapas inciais:
+
+* pip install pyspark
+* carregar o arquivo Excel usando pandas e, em seguida, converter o DataFrame para um DataFrame do Spark.
+* Visualizar o DF spark e iniciar análises
+
+----
+
+
 1. Lojas que nossos clientes mais compram:
 
 ![image](https://github.com/user-attachments/assets/9d7bd868-02fd-4daf-a1d7-d3a423abec7c)
